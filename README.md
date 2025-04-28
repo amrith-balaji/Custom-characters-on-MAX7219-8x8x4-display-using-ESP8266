@@ -1,6 +1,6 @@
 # Custom-characters-on-MAX7219-display-and-esp8266
 
-## Displays a number 2, a percentage symbol,an up arrow and a down arrow :
+## Displays a number 2, a percentage symbol, an up arrow and a down arrow :
 ```
 #include <MD_MAX72xx.h>
 #include <SPI.h>
