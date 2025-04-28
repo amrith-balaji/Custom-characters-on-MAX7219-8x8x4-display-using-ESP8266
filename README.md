@@ -56,8 +56,17 @@ void drawShape() {
 ![WhatsApp Image 2025-04-28 at 10 52 24_b5784ae5](https://github.com/user-attachments/assets/f63c0c65-0383-4561-b220-6352bc415263)
 
 
+Connections :
 
+![WhatsApp Image 2025-04-28 at 10 55 34_1c8f3e46](https://github.com/user-attachments/assets/6201fcc4-d9d1-4dca-94c1-db3442a1a76e)
 
+| MAX7219  | ESP8266 |
+| ------------- | ------------- |
+| VIN -->  | 3V  |
+| GND --> | GND  |
+| DIN --> | D7 |
+| CS --> | D8 |
+| CLK --> | D5 |
 
 
 
