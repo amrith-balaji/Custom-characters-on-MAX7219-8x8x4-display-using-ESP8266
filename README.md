@@ -26,7 +26,7 @@ Image 3 of SPI pins of the MAX 7219 8x8x4 LED display
 
 ![WhatsApp Image 2025-04-28 at 10 55 34_1c8f3e46](https://github.com/user-attachments/assets/6201fcc4-d9d1-4dca-94c1-db3442a1a76e)
 
-#Code :
+# Code :
 
 ```
 #include <MD_MAX72xx.h>
