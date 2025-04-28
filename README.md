@@ -28,6 +28,13 @@ Image 3 of SPI pins of the MAX 7219 8x8x4 LED display
 
 # Code :
 
+Each row is displayed by this statement 
+e.g for this statement :  
+```
+byte arrow_up[8] = {0x18,0x3C,0x7E,0x7E,0x18,0x18,0x18,0x18}; 
+```
+0x18  = 0001 1000 - lights up 2 leds in first row. and so on.
+
 
 
 ```
