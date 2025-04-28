@@ -60,6 +60,8 @@ Connections :
 
 ![WhatsApp Image 2025-04-28 at 10 55 34_1c8f3e46](https://github.com/user-attachments/assets/6201fcc4-d9d1-4dca-94c1-db3442a1a76e)
 
+The connections go as follows:
+
 | MAX7219  | ESP8266 |
 | ------------- | ------------- |
 | VIN -->  | 3V  |
