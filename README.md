@@ -1,4 +1,4 @@
-# Custom-characters-on-MAX7219-display-and-esp8266
+# Custom-characters-on-MAX7219-display-using-ESP8266
 
 ## Displays the number 2, a percentage symbol, an up arrow and a down arrow :
 ```
