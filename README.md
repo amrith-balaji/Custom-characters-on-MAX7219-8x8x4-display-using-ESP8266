@@ -1,6 +1,25 @@
 # Custom-characters-on-MAX7219-display-using-ESP8266
 
 ## Displays the number 2, a percentage symbol, an up arrow and a down arrow :
+
+This project involves displaying special characters, numbers, characters, and does a demo of the UP arrow and the DOWN arrow.
+
+Here I have shown the Percentage sign, the number 2 and the arrows.
+
+Included in the sketch is the MD_MAX72xx and MD_Parola library ( seen in the top of the sketch )
+
+To print the special character ( in this case the % sign ) the function set.row () was used, see below
+
+![image](https://github.com/user-attachments/assets/5fa6632b-1c98-49e3-b7ab-0fbb43af9a1c)
+ 
+
+Image 1
+
+Image 2 of ESP8266
+
+
+Image of SPI pins of the MAX 7219 8x8x4 LED display
+
 ```
 #include <MD_MAX72xx.h>
 #include <SPI.h>
