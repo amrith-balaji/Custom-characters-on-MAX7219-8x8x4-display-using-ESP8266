@@ -15,10 +15,17 @@ To print the special character ( in this case the % sign ) the function set.row 
 
 Image 1
 
+![WhatsApp Image 2025-04-28 at 10 52 24_b5784ae5](https://github.com/user-attachments/assets/f63c0c65-0383-4561-b220-6352bc415263)
+
 Image 2 of ESP8266
+
+![WhatsApp Image 2025-04-28 at 11 07 39_13c383f5](https://github.com/user-attachments/assets/e5177493-101e-4684-944b-d91fb5782d28)
 
 
 Image of SPI pins of the MAX 7219 8x8x4 LED display
+
+![WhatsApp Image 2025-04-28 at 10 55 34_1c8f3e46](https://github.com/user-attachments/assets/6201fcc4-d9d1-4dca-94c1-db3442a1a76e)
+
 
 ```
 #include <MD_MAX72xx.h>
@@ -71,16 +78,7 @@ void drawShape() {
   delay(delay_t);
 }
 ```
-
-![WhatsApp Image 2025-04-28 at 10 52 24_b5784ae5](https://github.com/user-attachments/assets/f63c0c65-0383-4561-b220-6352bc415263)
-
-
-Connections :
-
-![WhatsApp Image 2025-04-28 at 10 55 34_1c8f3e46](https://github.com/user-attachments/assets/6201fcc4-d9d1-4dca-94c1-db3442a1a76e)
-
 The connections go as follows:
-
 | MAX7219  | ESP8266 |
 | ------------- | ------------- |
 | VIN -->  | 3V  |
